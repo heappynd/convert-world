@@ -22,4 +22,4 @@ export function c_data_storge(
   return amount.toFixed(decimals)
 }
 
-console.log(c_data_storge(1, 'GB', 'B'))
+console.log(c_data_storge(1, 'GB', 'MB'))
